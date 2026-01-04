@@ -1,7 +1,9 @@
 # Nuxt Travel Log
+
 A full stack application built with Nuxt that allows users to keep track of all the places they've been.
 
 ## Setup
+
 Make sure to install dependencies:
 
 ```bash
@@ -14,8 +16,10 @@ Start the development server on `http://localhost:3000`:
 
 ```bash
 pnpm dev
-`````
+```
+
 ``
+
 ## Production
 
 Build the application for production:
